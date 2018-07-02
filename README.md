@@ -11,7 +11,7 @@ Make sure that your system has met the prerequisites above before running the fo
 
 ### 1. Clone The Repository
 
-Clone the repository somewhere under your `$GOPATH`.
+Clone the repository under your `$GOPATH/src` directory.
 
 ### 2. Install Dependencies and Build
 
